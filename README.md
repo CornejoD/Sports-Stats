@@ -6,8 +6,6 @@ This is the NBA Game Hub, a website that utilizes two NBA APIs, demonstrating th
 
 The top right corner contains a container that provides users with instructions on how to use the search bar, while the bottom right corner displays the top three teams at the time. This information updates dynamically based on the NBA standings API and will change depending on the current standings.
 
-This website is an easy and conient way for people to access info about dates for any team alongisde the leaderboard.
-
 ![Screenshot of webiste](/assets/nbawebsite.png)
 
 [Link to website](https://vincula1.github.io/nbaproject/)
