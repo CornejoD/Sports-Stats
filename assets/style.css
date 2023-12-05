@@ -292,3 +292,21 @@
 #standings-title {
     text-align: center;
 }
+
+@media (max-width: 720px){
+    .navbar-item{
+        margin-left: 10px;
+    }
+    
+    .navbar-end {
+        margin-right: 10px;
+    }
+
+    .search-container{
+        margin-left: 185px;
+    }
+
+    .standings-box{
+        margin-left: 60px;
+    }
+}
